@@ -1,0 +1,28 @@
+.div1{
+height: 200px;
+width: 200px;
+border-radius: 50%;
+background-color: #003d1c;
+display: inline-block;
+}
+.div2{
+background-color: #56c288;
+height: 200px;
+width: 200px;
+border-bottom-left-radius: 100%;
+display: inline-block;
+}
+.div3{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: #6875ec;
+    display: inline-block;
+}
+.div4{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #ccd1d7;
+    display: inline-block;
+    }
